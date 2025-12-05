@@ -30,135 +30,101 @@ Whether you’re a beginner or an experienced developer, this repo is a valuable
 ### 🗂️ Project Structure
 
 SOLID-By-Example/                                                                                                                                                                                 
-│
-├── S-SingleResponsibility/
-│   ├── Antes/
-│   │   └── 
-│   ├── Depois/
-│   │   ├── 
-│   │   ├── 
-│   │   └── 
-│   └── README.md
-│
-├── O-OpenClosed/
-│   ├── Antes/
-│   │   └── 
-│   ├── Depois/
-│       ├── 
-│       ├── 
-│       ├── 
-│       └── 
-│   └── README.md
-│
-├── L-LiskovSubstitution/
-│   ├── Antes/
-│   │   └── 
-│   ├── Depois/
-│       ├── 
-│       ├──
-│       └── 
-│   └── README.md
-│
-├── I-InterfaceSegregation/
-│   ├── Antes/
-│   │   └── 
-│   ├── Depois/
-│       ├── 
-│       ├── 
-│       ├── 
-│       └── 
-│   └── README.md
-│
-├── D-DependencyInversion/
-│   ├── Antes/
-│   │   └── 
-│   ├── Depois/
-│       ├── 
-│       ├── 
-│       ├── 
-│       └── 
-│   └── README.md
-│
-└── README.md (general)
+│                                                                                                                                                                                                                                                  
+├── S-SingleResponsibility/                                                                                                                                                                                                                        
+│   ├── Antes/                                                                                                                                                                                                                                     
+│   ├── Depois/                                                                                                                                                                                                                                    
+│   └── README.md                                                                                                                                                                                                                                  
+│                                                                                                                                                                                                                                                  
+├── O-OpenClosed/                                                                                                                                                                                                                                  
+│   ├── Antes/                                                                                                                                                                                                                                     
+│   ├── Depois/                                                                                                                                                                                                                                    
+│   └── README.md                                                                                                                                                                                                                                  
+│                                                                                                                                                                                                                                                  
+├── L-LiskovSubstitution/                                                                                                                                                                                                                          
+│   ├── Antes/                                                                                                                                                                                                                                     
+│   ├── Depois/                                                                                                                                                                                                                                    
+│   └── README.md                                                                                                                                                                                                                                  
+│                                                                                                                                                                                                                                                  
+├── I-InterfaceSegregation/                                                                                                                                                                                                                        
+│   ├── Antes/                                                                                                                                                                                                                                     
+│   ├── Depois/                                                                                                                                                                                                                                    
+│   └── README.md                                                                                                                                                                                                                                  
+│                                                                                                                                                                                                                                                  
+├── D-DependencyInversion/                                                                                                                                                                                                                         
+│   ├── Antes/                                                                                                                                                                                                                                     
+│   ├── Depois/                                                                                                                                                                                                                                    
+│   └── README.md                                                                                                                                                                                                                                  
+│                                                                                                                                                                                                                                                  
+└── README.md (general)                                                                                                                                                                                                                            
 
+### Each folder contains:
 
+- A real legacy example
 
-Each folder contains:
+- A fully refactored version
 
-A real legacy example
+- Explanation of the problem and the applied principle
 
-A fully refactored version
-
-Explanation of the problem and the applied principle
-
-🚀 Getting Started
+### 🚀 Getting Started
 
 Clone the repository:
 
-git clone https://github.com/YourUser/SOLID-Examples.git
-cd SOLID-Examples
-
+git clone https://github.com/hiagorhenriquevieira/SOLID-By-Exemple.git
+cd SOLID-By-Example
 
 Open the project using:
 
-Visual Studio
+- Visual Studio
 
-Visual Studio Code
-
-Rider
+- Visual Studio Code
 
 And explore the examples freely.
 
-👨‍💻 Why This Repository Exists
+### 👨‍💻 Why This Repository Exists
 
-To improve coding skills
+- To improve coding skills
 
-To create educational content for the community
+- To create educational content for the community
 
-To provide reference material for interviews
+- To provide reference material for interviews
 
-To help developers understand SOLID through real, practical examples
+- To help developers understand SOLID through real, practical examples
 
-To apply Clean Code principles in an organized way
+- To apply Clean Code principles in an organized way
 
-🧰 Technologies Used
+### 🧰 Technologies Used
 
-C# / .NET
+- C# / .NET
 
-MS Test
+- MS Test
 
-SOLID Principles
+- SOLID Principles
 
-Clean Code Concepts
+- Clean Code Concepts
 
-CQRS (optional for future examples)
+### 🧠 Roadmap
 
-🧠 Roadmap
+ - Add Clean Code examples
 
- Add Clean Code examples
+ - Add diagrams explaining each principle
 
- Add CQRS examples
+-  Record a short video walkthrough (Maybe) 
 
- Create a mini API applying SOLID
-
- Add diagrams explaining each principle
-
- Record a short video walkthrough
-
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome!
 Feel free to:
 
-Open issues
+- Open issues
 
-Submit pull requests
+- Submit pull requests
 
-Suggest improvements
+- Suggest improvements
 
-Request new examples
+- Request new examples
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share the code for educational or professional purposes.
